@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: CapsulePlayer
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":237.0,"y":29.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"82401f5c-4401-47b3-b9d2-7f3e4418829f","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"db9ea017-8591-4cec-ac83-51240d367706","$version":"A","$type":"Unity.VisualScripting.Update"},{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":66.0,"y":-158.0},"guid":"317368f0-26aa-4081-9bd3-b1fb7fa8ca72","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"nest":{"source":"Macro","macro":1,"embed":null},"defaultValues":{},"position":{"x":-8.0,"y":136.0},"guid":"5b35e860-36b3-4402-a989-eb3ee258556d","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"nest":{"source":"Macro","macro":2,"embed":null},"defaultValues":{},"position":{"x":262.0,"y":127.0},"guid":"456d3069-cef1-4f69-831c-89e4e3ea0dd5","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"nest":{"source":"Macro","macro":3,"embed":null},"defaultValues":{},"position":{"x":290.0,"y":-146.0},"guid":"5773ec4b-ad52-4946-8ef0-867bcfade772","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"nest":{"source":"Macro","macro":4,"embed":null},"defaultValues":{},"position":{"x":516.0,"y":40.0},"guid":"23c836b5-4991-4b24-97b1-7bd04383eff6","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: e1b06ecf136166744909c1bbcb27669f, type: 2}
+    - {fileID: 11400000, guid: f7714886498da5b468123b1642581c3c, type: 2}
+    - {fileID: 11400000, guid: 0c0d1a68ebb287e4cbcdaf2d9fae2b65, type: 2}
+    - {fileID: 11400000, guid: 92b89ba475e1598418875b8eb47938c3, type: 2}
+    - {fileID: 11400000, guid: fcb771ae349480f4ea8a6c8bedf3d8b3, type: 2}
