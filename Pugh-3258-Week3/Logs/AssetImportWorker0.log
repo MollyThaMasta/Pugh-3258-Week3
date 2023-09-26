@@ -492,3 +492,8 @@ Received Import Request.
 Start importing Assets/Sideways.asset using Guid(0c0d1a68ebb287e4cbcdaf2d9fae2b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7c6c3ecc267c774ee5ab36937620a9') in 0.001393 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
